@@ -62,7 +62,7 @@ def preprocess_data(data_df, city_name):
     # 数据清洗，去掉存在空值的行
     cln_data_df = data_df.dropna()
 
-    # 重新构建索引
+    # 重新构建索引 - 让index连续
     cln_data_df = cln_data_df.reset_index(drop=True)
 
     # 添加新的一列作为城市名
