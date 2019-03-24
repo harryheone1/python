@@ -2,29 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02249ca3-b0ab-4cfe-ae1e-f89f34c65c19" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../../Python Basic/jike_python_basic/closure_test1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../Python Basic/jike_python_basic/closure_test2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../Python Basic/jike_python_basic/closure_test3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../Python Basic/jike_python_basic/data/name.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../Python Basic/jike_python_basic/data/one_piece_charactor.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../Python Basic/jike_python_basic/data/one_piece_charactor_list.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../Python Basic/jike_python_basic/data/one_piece_file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../Python Basic/jike_python_basic/decorator_test1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../Python Basic/jike_python_basic/decorator_test2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../Python Basic/jike_python_basic/exception_handling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../Python Basic/jike_python_basic/file_op.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../Python Basic/jike_python_basic/file_op2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../Python Basic/jike_python_basic/func_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../Python Basic/jike_python_basic/high_order_function_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../Python Basic/jike_python_basic/iter_and_generator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../Python Basic/jike_python_basic/lambda_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../Python Basic/jike_python_basic/one_piece.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../Python Basic/jike_python_basic/one_piece_v2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Python Basic/jike_python_basic/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Python Basic/jike_python_basic/.idea/jike_python_basic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Python Basic/jike_python_basic/.idea/jike_python_basic.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Python Basic/jike_python_basic/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Python Basic/jike_python_basic/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Python Basic/jike_python_basic/chinese_zodiac.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Python Basic/jike_python_basic/chinese_zodiac.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lect01/lect01_proj/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lect01/lect01_proj/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lect01/lect01_quize.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../lect01/lect01_quize.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lect01/lect01_refs/+-¦ñ+¦-_+¦-8-ª¦¿+µ.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../lect01/lect01_refs/+-¦ñ+¦-_+¦-8-ª¦¿+µ.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lect01/lect01_refs/2017+½¦=+-¦ñ+¦-_+-¦+¦+¦ñ-T.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../lect01/lect01_refs/2017+½¦=+-¦ñ+¦-_+-¦+¦+¦ñ-T.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lect01/lect01_refs/Liang_et_al-2016-Journal_of_Geophysical_Research__Atmospheres.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../lect01/lect01_refs/Liang_et_al-2016-Journal_of_Geophysical_Research__Atmospheres.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lect01/lect01_工作环境准备及数据分析基础.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../lect01/lect01_工作环境准备及数据分析基础.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lect02_Pandas进阶及统计分析.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../lect02_Pandas进阶及统计分析.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lect02_notebook/.ipynb_checkpoints/lect02_eg04-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../lect02_notebook/.ipynb_checkpoints/lect02_eg04-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lect02_notebook/2015.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../lect02_notebook/2015.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lect02_notebook/2016.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../lect02_notebook/2016.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lect02_notebook/2017.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../lect02_notebook/2017.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lect02_notebook/cars.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../lect02_notebook/cars.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lect02_notebook/grades.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../lect02_notebook/grades.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lect02_notebook/lect02_eg02.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../lect02_notebook/lect02_eg02.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lect02_notebook/log.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../lect02_notebook/log.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/lect02_proj.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/lect02_proj.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/other.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/BeijingPM20100101_20151231.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/BeijingPM20100101_20151231.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ChengduPM20100101_20151231.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/ChengduPM20100101_20151231.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/GuangzhouPM20100101_20151231.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/GuangzhouPM20100101_20151231.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ShanghaiPM20100101_20151231.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/ShanghaiPM20100101_20151231.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ShenyangPM20100101_20151231.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/ShenyangPM20100101_20151231.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lect02_proj_readme.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/lect02_proj_readme.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lect02_quize.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../lect02_quize.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lect03/lect02_proj/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lect03/lect02_proj/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lect03/lect03_notebook/comparison_result.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../lect03/lect03_notebook/comparison_result.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lect03/lect03_notebook/echarts_demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../lect03/lect03_notebook/echarts_demo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lect03/lect03_notebook/interactive_legend_eg.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../lect03/lect03_notebook/interactive_legend_eg.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lect03/lect03_notebook/iris.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../lect03/lect03_notebook/iris.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lect03/lect03_notebook/lect03_eg04.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../lect03/lect03_notebook/lect03_eg04.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lect03/lect03_notebook/lect03_eg05.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../lect03/lect03_notebook/lect03_eg05.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lect03/lect03_notebook/test.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../lect03/lect03_notebook/test.png" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +84,7 @@
     <session id="742780840">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="3" />

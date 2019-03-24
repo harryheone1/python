@@ -2,29 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1083c62-6d1c-4088-bd9c-404e50207fe7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/closure_test1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/closure_test2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/closure_test3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/name.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/one_piece_charactor.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/one_piece_charactor_list.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/one_piece_file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decorator_test1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decorator_test2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exception_handling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file_op.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file_op2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/func_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/high_order_function_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iter_and_generator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lambda_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/one_piece.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/one_piece_v2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jike_python_basic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jike_python_basic.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chinese_zodiac.py" beforeDir="false" afterPath="$PROJECT_DIR$/chinese_zodiac.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect01/lect01_proj/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect01/lect01_proj/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect01/lect01_quize.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect01/lect01_quize.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect01/lect01_refs/+-¦ñ+¦-_+¦-8-ª¦¿+µ.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect01/lect01_refs/+-¦ñ+¦-_+¦-8-ª¦¿+µ.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect01/lect01_refs/2017+½¦=+-¦ñ+¦-_+-¦+¦+¦ñ-T.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect01/lect01_refs/2017+½¦=+-¦ñ+¦-_+-¦+¦+¦ñ-T.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect01/lect01_refs/Liang_et_al-2016-Journal_of_Geophysical_Research__Atmospheres.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect01/lect01_refs/Liang_et_al-2016-Journal_of_Geophysical_Research__Atmospheres.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect01/lect01_工作环境准备及数据分析基础.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect01/lect01_工作环境准备及数据分析基础.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect02/lect02_Pandas进阶及统计分析.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect02/lect02_Pandas进阶及统计分析.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect02/lect02_notebook/.ipynb_checkpoints/lect02_eg04-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect02/lect02_notebook/.ipynb_checkpoints/lect02_eg04-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect02/lect02_notebook/2015.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect02/lect02_notebook/2015.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect02/lect02_notebook/2016.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect02/lect02_notebook/2016.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect02/lect02_notebook/2017.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect02/lect02_notebook/2017.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect02/lect02_notebook/cars.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect02/lect02_notebook/cars.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect02/lect02_notebook/grades.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect02/lect02_notebook/grades.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect02/lect02_notebook/lect02_eg02.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect02/lect02_notebook/lect02_eg02.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect02/lect02_notebook/log.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect02/lect02_notebook/log.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect02/lect02_proj/.idea/lect02_proj.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect02/lect02_proj/.idea/lect02_proj.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect02/lect02_proj/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect02/lect02_proj/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect02/lect02_proj/.idea/other.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect02/lect02_proj/.idea/other.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect02/lect02_proj/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect02/lect02_proj/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect02/lect02_proj/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect02/lect02_proj/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect02/lect02_proj/data/BeijingPM20100101_20151231.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect02/lect02_proj/data/BeijingPM20100101_20151231.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect02/lect02_proj/data/ChengduPM20100101_20151231.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect02/lect02_proj/data/ChengduPM20100101_20151231.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect02/lect02_proj/data/GuangzhouPM20100101_20151231.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect02/lect02_proj/data/GuangzhouPM20100101_20151231.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect02/lect02_proj/data/ShanghaiPM20100101_20151231.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect02/lect02_proj/data/ShanghaiPM20100101_20151231.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect02/lect02_proj/data/ShenyangPM20100101_20151231.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect02/lect02_proj/data/ShenyangPM20100101_20151231.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect02/lect02_proj/lect02_proj_readme.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect02/lect02_proj/lect02_proj_readme.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect02/lect02_proj/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect02/lect02_proj/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect02/lect02_quize.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect02/lect02_quize.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect03/lect02_proj/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect03/lect02_proj/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect03/lect03_notebook/comparison_result.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect03/lect03_notebook/comparison_result.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect03/lect03_notebook/echarts_demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect03/lect03_notebook/echarts_demo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect03/lect03_notebook/interactive_legend_eg.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect03/lect03_notebook/interactive_legend_eg.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect03/lect03_notebook/iris.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect03/lect03_notebook/iris.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect03/lect03_notebook/lect03_eg04.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect03/lect03_notebook/lect03_eg04.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect03/lect03_notebook/lect03_eg05.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect03/lect03_notebook/lect03_eg05.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect03/lect03_notebook/test.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python Data Analyse/data_analyse_lesson/lect03/lect03_notebook/test.png" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +67,7 @@
     <session id="-28553554">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -440,10 +454,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="1" />
@@ -453,7 +466,7 @@
       <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" weight="0.329718" />
-      <window_info active="true" anchor="bottom" id="Run" order="8" visible="true" weight="0.345987" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.345987" />
       <window_info anchor="bottom" id="Debug" order="9" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
