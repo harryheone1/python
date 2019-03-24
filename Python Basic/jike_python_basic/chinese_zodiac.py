@@ -8,10 +8,10 @@ print(chinese_zodiac[-1])
 
 # index
 year = 2016
-y_distance = (year - 1984) % 12 if year > 1984 else 12 - (abs(year - 1984) % 12)
-print(y_distance)
+year_index = (year - 1984) % 12 if year > 1984 else 12 - (abs(year - 1984) % 12)
+print(year_index)
 
-print(chinese_zodiac[y_distance])
+print(chinese_zodiac[year_index])
 
 # contains
 print('狗' in chinese_zodiac)

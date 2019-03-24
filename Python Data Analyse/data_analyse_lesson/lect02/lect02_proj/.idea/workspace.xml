@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02249ca3-b0ab-4cfe-ae1e-f89f34c65c19" name="Default Changelist" comment="" />
+    <list default="true" id="02249ca3-b0ab-4cfe-ae1e-f89f34c65c19" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../Python Basic/jike_python_basic/closure_test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Python Basic/jike_python_basic/closure_test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Python Basic/jike_python_basic/closure_test3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Python Basic/jike_python_basic/data/name.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Python Basic/jike_python_basic/data/one_piece_charactor.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Python Basic/jike_python_basic/data/one_piece_charactor_list.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Python Basic/jike_python_basic/data/one_piece_file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Python Basic/jike_python_basic/decorator_test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Python Basic/jike_python_basic/decorator_test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Python Basic/jike_python_basic/exception_handling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Python Basic/jike_python_basic/file_op.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Python Basic/jike_python_basic/file_op2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Python Basic/jike_python_basic/func_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Python Basic/jike_python_basic/high_order_function_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Python Basic/jike_python_basic/iter_and_generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Python Basic/jike_python_basic/lambda_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Python Basic/jike_python_basic/one_piece.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Python Basic/jike_python_basic/one_piece_v2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Python Basic/jike_python_basic/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Python Basic/jike_python_basic/.idea/jike_python_basic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Python Basic/jike_python_basic/.idea/jike_python_basic.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Python Basic/jike_python_basic/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Python Basic/jike_python_basic/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Python Basic/jike_python_basic/chinese_zodiac.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Python Basic/jike_python_basic/chinese_zodiac.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +76,8 @@
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="3" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -101,7 +126,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="580">
+            <state relative-caret-position="2242">
               <caret line="122" column="47" selection-start-line="122" selection-start-column="47" selection-end-line="122" selection-end-column="47" />
             </state>
           </provider>
@@ -184,7 +209,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="C:/tools/Git/bin/git.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Python Basic/jike_python_basic" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
@@ -236,6 +261,9 @@
       <module name="lect02_proj" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson/basic" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -299,6 +327,9 @@
       <module name="lect02_proj" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson/basic" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -318,6 +349,9 @@
       <module name="lect02_proj" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson/basic" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -350,9 +384,9 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python tests.pytest in test_dict.py" />
       <item itemvalue="Python.zodiac" />
       <item itemvalue="Python.zodiac_v2" />
-      <item itemvalue="Python tests.pytest in test_dict.py" />
       <item itemvalue="Python.zodiac_v3" />
       <item itemvalue="Python.list_comprehension" />
       <item itemvalue="Python.zodiac_v4" />
@@ -393,8 +427,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25746268" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26012793" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -416,7 +451,7 @@
       <window_info anchor="right" id="SciView" order="3" weight="0.32995737" />
       <window_info anchor="right" id="R Graphics" order="4" />
       <window_info anchor="right" id="R Packages" order="5" />
-      <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="6" side_tool="true" weight="0.32995737" />
+      <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="6" side_tool="true" visible="true" weight="0.32995737" />
       <window_info anchor="right" id="Database" order="7" />
     </layout>
     <layout-to-restore>
@@ -479,132 +514,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/session_mean_gap.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="79" column="34" selection-start-line="79" selection-start-column="31" selection-end-line="79" selection-end-column="34" />
-          <folding>
-            <element signature="e#206#218#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/session_mean_gap.py" />
     <entry file="file://$PROJECT_DIR$/lesson/basic/network_brandwidth.py" />
-    <entry file="file://$PROJECT_DIR$/lesson/basic/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson/basic/first_book.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson/basic/first_example.py">
+    <entry file="file://$PROJECT_DIR$/lesson/basic/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/lesson/basic/first_book.ipynb" />
+    <entry file="file://$PROJECT_DIR$/lesson/basic/first_example.py" />
+    <entry file="file://$PROJECT_DIR$/lesson/basic/test_if.py" />
+    <entry file="file://$PROJECT_DIR$/lesson/basic/zodiac_v2.py" />
+    <entry file="file://$PROJECT_DIR$/lesson/basic/chinese_zodiac_v2.py" />
+    <entry file="file://$PROJECT_DIR$/lesson/basic/chinese_zodiac.py" />
+    <entry file="file://$PROJECT_DIR$/lesson/basic/zodiac.py" />
+    <entry file="file://$PROJECT_DIR$/lesson/basic/list_comprehension.py" />
+    <entry file="file://$PROJECT_DIR$/lesson/basic/zodiac_v3.py" />
+    <entry file="file://$PROJECT_DIR$/lesson/basic/zodiac_v4.py" />
+    <entry file="file://$PROJECT_DIR$/lesson/basic/.pytest_cache/test_dict.py" />
+    <entry file="file://$PROJECT_DIR$/new_main.py" />
+    <entry file="file://$PROJECT_DIR$/simpletest.py" />
+    <entry file="file://$PROJECT_DIR$/session.py" />
+    <entry file="file://$PROJECT_DIR$/config.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson/basic/test_if.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson/basic/zodiac_v2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson/basic/chinese_zodiac_v2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="96" lean-forward="true" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="96" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson/basic/chinese_zodiac.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson/basic/zodiac.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson/basic/list_comprehension.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson/basic/zodiac_v3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="26" column="84" selection-start-line="26" selection-start-column="84" selection-end-line="26" selection-end-column="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson/basic/zodiac_v4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="46" lean-forward="true" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson/basic/.pytest_cache/test_dict.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="10" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/new_main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="32" column="62" selection-start-line="30" selection-start-column="4" selection-end-line="32" selection-end-column="62" />
-          <folding>
-            <element signature="e#428#437#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/simpletest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/session.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="580">
-          <caret line="146" column="62" selection-start-line="146" selection-start-column="62" selection-end-line="146" selection-end-column="62" />
+        <state relative-caret-position="456">
+          <caret line="24" column="52" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="580">
+        <state relative-caret-position="2242">
           <caret line="122" column="47" selection-start-line="122" selection-start-column="47" selection-end-line="122" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="52" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
         </state>
       </provider>
     </entry>
