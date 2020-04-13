@@ -9,7 +9,9 @@ def func(a, b, c=3):
 
 func(1, c=5, b=2)
 func(1, 2)
+
 # func(1, c=3) # error, argument 'b' is mandatory
+# func(c=4)  # missing 2 required positional arguments: 'a' and 'b'
 
 
 def func2(first, *middle,  end='z'):

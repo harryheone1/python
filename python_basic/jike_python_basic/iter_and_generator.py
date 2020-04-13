@@ -29,6 +29,7 @@ def frange(start, end, step):
 gene = frange_gene(0, 20, 2)
 print(next(gene))
 print(next(gene))
+print(type(gene))
 
 for i in frange_gene(0, 20, 2):
     print('lazy computing %f' % i)

@@ -12,9 +12,9 @@ name_dict = {}
 with open('data/one_piece_charactor_list.txt') as f:
     for line in f:
         names = line.split('|')
-        for n in names:
-            name_num = find_item(n)
-            name_dict[n] = name_num
+        for name in names:
+            name_num = find_item(name)
+            name_dict[name] = name_num
 
 name_sorted = sorted(name_dict.items(), key=lambda item: item[1], reverse=True)
 

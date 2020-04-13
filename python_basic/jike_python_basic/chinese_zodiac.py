@@ -1,5 +1,6 @@
-# contain zodiac and get zodiac by input year
+#给出年份计算出是哪一个属相
 
+# contain zodiac and get zodiac by input year
 chinese_zodiac = '鼠牛虎兔龙蛇马羊猴鸡狗猪'
 
 # slice

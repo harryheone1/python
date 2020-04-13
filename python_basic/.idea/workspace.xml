@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c72f30d2-547b-45ec-b915-5e877172bdc4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/00-Python Object and Data Structure Basics/.ipynb_checkpoints/01-Variable Assignment-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/00-Python Object and Data Structure Basics/.ipynb_checkpoints/02-Strings-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/00-Python Object and Data Structure Basics/.ipynb_checkpoints/03-Print Formatting with Strings-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/00-Python Object and Data Structure Basics/.ipynb_checkpoints/07-Sets and Booleans-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/00-Python Object and Data Structure Basics/.ipynb_checkpoints/08-Files-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/00-Python Object and Data Structure Basics/.ipynb_checkpoints/09-Objects and Data Structures Assessment Test-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/00-Python Object and Data Structure Basics/.ipynb_checkpoints/10-Objects and Data Structures Assessment Test-Solution-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/00-Python Object and Data Structure Basics/01-Numbers.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/00-Python Object and Data Structure Basics/01-Variable Assignment.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/00-Python Object and Data Structure Basics/02-Strings.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/00-Python Object and Data Structure Basics/03-Print Formatting with Strings.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/00-Python Object and Data Structure Basics/04-Lists.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/00-Python Object and Data Structure Basics/05-Dictionaries.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/00-Python Object and Data Structure Basics/06-Tuples.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/00-Python Object and Data Structure Basics/07-Sets and Booleans.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/00-Python Object and Data Structure Basics/08-Files.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/00-Python Object and Data Structure Basics/09-Objects and Data Structures Assessment Test.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/00-Python Object and Data Structure Basics/10-Objects and Data Structures Assessment Test-Solution.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/00-Python Object and Data Structure Basics/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/01-Python Comparison Operators/.ipynb_checkpoints/01-Comparison Operators-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/01-Python Comparison Operators/.ipynb_checkpoints/02-Chained Comparison Operators-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/01-Python Comparison Operators/01-Comparison Operators.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/01-Python Comparison Operators/02-Chained Comparison Operators.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/02-Python Statements/.ipynb_checkpoints/01-Introduction to Python Statements-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/02-Python Statements/.ipynb_checkpoints/02-if, elif, and else Statements-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/02-Python Statements/.ipynb_checkpoints/03-for Loops-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/02-Python Statements/.ipynb_checkpoints/04-while Loops-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/02-Python Statements/.ipynb_checkpoints/05-Useful-Operators-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/02-Python Statements/.ipynb_checkpoints/05-range()-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/02-Python Statements/.ipynb_checkpoints/06-List Comprehensions-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/02-Python Statements/.ipynb_checkpoints/07-Statements Assessment Test-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/02-Python Statements/.ipynb_checkpoints/08-Statements Assessment Test - Solutions-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/02-Python Statements/.ipynb_checkpoints/09-Guessing Game Challenge-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/02-Python Statements/.ipynb_checkpoints/10-Guessing Game Challenge - Solution-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/02-Python Statements/01-Introduction to Python Statements.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/02-Python Statements/02-if, elif, and else Statements.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/02-Python Statements/03-for Loops.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/02-Python Statements/04-while Loops.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/02-Python Statements/05-Useful-Operators.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/02-Python Statements/06-List Comprehensions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/02-Python Statements/07-Statements Assessment Test.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/02-Python Statements/08-Statements Assessment Test - Solutions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/02-Python Statements/09-Guessing Game Challenge.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/02-Python Statements/10-Guessing Game Challenge - Solution.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/03-Methods and Functions/.ipynb_checkpoints/01-Methods-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/03-Methods and Functions/.ipynb_checkpoints/02-Functions-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/03-Methods and Functions/.ipynb_checkpoints/03-Function Practice Exercises-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/03-Methods and Functions/.ipynb_checkpoints/03-Lambda expressions-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/03-Methods and Functions/.ipynb_checkpoints/04-Function Practice Exercises - Solutions-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/03-Methods and Functions/.ipynb_checkpoints/04-Nested Statements and Scope-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/03-Methods and Functions/.ipynb_checkpoints/05-Functions and Methods Homework-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/03-Methods and Functions/.ipynb_checkpoints/05-Lambda-Expressions-Map-and-Filter-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/03-Methods and Functions/.ipynb_checkpoints/06-Functions and Methods Homework - Solutions-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/03-Methods and Functions/.ipynb_checkpoints/07-args and kwargs-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/03-Methods and Functions/.ipynb_checkpoints/08-Function Practice Exercises-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/03-Methods and Functions/.ipynb_checkpoints/09-Function Practice Exercises - Solutions-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/03-Methods and Functions/01-Methods.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/03-Methods and Functions/02-Functions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/03-Methods and Functions/03-Function Practice Exercises.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/03-Methods and Functions/04-Function Practice Exercises - Solutions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/03-Methods and Functions/05-Lambda-Expressions-Map-and-Filter.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/03-Methods and Functions/06-Nested Statements and Scope.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/03-Methods and Functions/07-args and kwargs.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/03-Methods and Functions/08-Functions and Methods Homework.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/03-Methods and Functions/09-Functions and Methods Homework - Solutions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/04-Milestone Project - 1/.ipynb_checkpoints/01-Milestone Project 1 - Assignment-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/04-Milestone Project - 1/.ipynb_checkpoints/02-Milestone Project 1 - Walkthrough Steps Workbook-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/04-Milestone Project - 1/.ipynb_checkpoints/03-Milestone Project 1 - Complete Walkthrough Solution-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/04-Milestone Project - 1/.ipynb_checkpoints/04-OPTIONAL -Milestone Project 1 - Advanced Solution-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/04-Milestone Project - 1/01-Milestone Project 1 - Assignment.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/04-Milestone Project - 1/02-Milestone Project 1 - Walkthrough Steps Workbook.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/04-Milestone Project - 1/03-Milestone Project 1 - Complete Walkthrough Solution.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/04-Milestone Project - 1/04-OPTIONAL -Milestone Project 1 - Advanced Solution.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/05-Object Oriented Programming/.ipynb_checkpoints/01-Object Oriented Programming-Copy1-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/05-Object Oriented Programming/.ipynb_checkpoints/01-Object Oriented Programming-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/05-Object Oriented Programming/.ipynb_checkpoints/02-Object Oriented Programming Homework-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/05-Object Oriented Programming/.ipynb_checkpoints/03-Object Oriented Programming Homework - Solution-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/05-Object Oriented Programming/.ipynb_checkpoints/04-OOP Challenge-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/05-Object Oriented Programming/.ipynb_checkpoints/05-OOP Challenge - Solution-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/05-Object Oriented Programming/01-Object Oriented Programming.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/05-Object Oriented Programming/02-Object Oriented Programming Homework.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/05-Object Oriented Programming/03-Object Oriented Programming Homework - Solution.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/05-Object Oriented Programming/04-OOP Challenge.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/05-Object Oriented Programming/05-OOP Challenge - Solution.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/06-Modules and Packages/.ipynb_checkpoints/01-Modules and Packages-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/06-Modules and Packages/.ipynb_checkpoints/Useful_Info_Notebook-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/06-Modules and Packages/00-Modules_and_Packages/MyMainPackage/SubPackage/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/06-Modules and Packages/00-Modules_and_Packages/MyMainPackage/SubPackage/mysubscript.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/06-Modules and Packages/00-Modules_and_Packages/MyMainPackage/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/06-Modules and Packages/00-Modules_and_Packages/MyMainPackage/some_main_script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/06-Modules and Packages/00-Modules_and_Packages/mymodule.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/06-Modules and Packages/00-Modules_and_Packages/myprogram.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/06-Modules and Packages/01-Name_and_Main/Explanation.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/06-Modules and Packages/01-Name_and_Main/one.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/06-Modules and Packages/01-Name_and_Main/two.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/06-Modules and Packages/Useful_Info_Notebook.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/06-Modules and Packages/file1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/06-Modules and Packages/file2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/06-Modules and Packages/file3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/07-Errors and Exception Handling/.ipynb_checkpoints/01-Errors and Exceptions Handling-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/07-Errors and Exception Handling/.ipynb_checkpoints/02-Errors and Exceptions Homework-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/07-Errors and Exception Handling/.ipynb_checkpoints/03-Errors and Exceptions Homework - Solution-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/07-Errors and Exception Handling/.ipynb_checkpoints/04-Unit Testing-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/07-Errors and Exception Handling/01-Errors and Exceptions Handling.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/07-Errors and Exception Handling/02-Errors and Exceptions Homework.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/07-Errors and Exception Handling/03-Errors and Exceptions Homework - Solution.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/07-Errors and Exception Handling/04-Unit Testing.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/07-Errors and Exception Handling/cap.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/07-Errors and Exception Handling/simple1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/07-Errors and Exception Handling/simple2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/07-Errors and Exception Handling/test_cap.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/07-Errors and Exception Handling/testfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/08-Milestone Project - 2/.ipynb_checkpoints/01-Milestone Project 2 - Assignment-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/08-Milestone Project - 2/.ipynb_checkpoints/02-Milestone Project 2 - Walkthrough Steps Workbook-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/08-Milestone Project - 2/.ipynb_checkpoints/03-Milestone Project 2 - Complete Walkthrough Solution-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/08-Milestone Project - 2/.ipynb_checkpoints/04-Milestone Project 2 - Solution Code-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/08-Milestone Project - 2/01-Milestone Project 2 - Assignment.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/08-Milestone Project - 2/02-Milestone Project 2 - Walkthrough Steps Workbook.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/08-Milestone Project - 2/03-Milestone Project 2 - Complete Walkthrough Solution.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/08-Milestone Project - 2/04-Milestone Project 2 - Solution Code.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/09-Built-in Functions/.ipynb_checkpoints/01-Map-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/09-Built-in Functions/.ipynb_checkpoints/02-Reduce-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/09-Built-in Functions/.ipynb_checkpoints/03-Filter-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/09-Built-in Functions/.ipynb_checkpoints/04-Zip-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/09-Built-in Functions/.ipynb_checkpoints/05-Enumerate-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/09-Built-in Functions/.ipynb_checkpoints/06-all() and any()-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/09-Built-in Functions/.ipynb_checkpoints/07-Complex-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/09-Built-in Functions/.ipynb_checkpoints/08-Built-in Functions Assessment Test-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/09-Built-in Functions/.ipynb_checkpoints/09-Built-in Functions Assessment Test - Solution-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/09-Built-in Functions/01-Map.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/09-Built-in Functions/02-Reduce.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/09-Built-in Functions/03-Filter.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/09-Built-in Functions/04-Zip.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/09-Built-in Functions/05-Enumerate.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/09-Built-in Functions/06-all() and any().ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/09-Built-in Functions/07-Complex.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/09-Built-in Functions/08-Built-in Functions Assessment Test.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/09-Built-in Functions/09-Built-in Functions Assessment Test - Solution.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/10-Python Decorators/.ipynb_checkpoints/01-Decorators-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/10-Python Decorators/.ipynb_checkpoints/02-Decorators Homework-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/10-Python Decorators/01-Decorators.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/10-Python Decorators/02-Decorators Homework.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/11-Python Generators/.ipynb_checkpoints/01-Iterators and Generators-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/11-Python Generators/.ipynb_checkpoints/02-Iterators and Generators Homework-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/11-Python Generators/.ipynb_checkpoints/03-Iterators and Generators Homework - Solution-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/11-Python Generators/01-Iterators and Generators.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/11-Python Generators/02-Iterators and Generators Homework.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/11-Python Generators/03-Iterators and Generators Homework - Solution.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/12-Final Capstone Python Project/.ipynb_checkpoints/01-Final Capstone Project-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/12-Final Capstone Python Project/.ipynb_checkpoints/02-Final Capstone Project Ideas-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/12-Final Capstone Python Project/.ipynb_checkpoints/03-Final Capstone Suggested Walkthrough-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/12-Final Capstone Python Project/01-Final Capstone Project.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/12-Final Capstone Python Project/02-Final Capstone Project Ideas.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/12-Final Capstone Python Project/03-Final Capstone Suggested Walkthrough.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/12-Final Capstone Python Project/Projects-Solutions/Solution Links.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/13-Advanced Python Modules/.ipynb_checkpoints/01-Collections Module-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/13-Advanced Python Modules/.ipynb_checkpoints/02-Datetime-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/13-Advanced Python Modules/.ipynb_checkpoints/03-Python Debugger (pdb)-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/13-Advanced Python Modules/.ipynb_checkpoints/04-Timing your code - timeit-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/13-Advanced Python Modules/.ipynb_checkpoints/05-Regular Expressions - re-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/13-Advanced Python Modules/.ipynb_checkpoints/06-StringIO-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/13-Advanced Python Modules/01-Collections Module.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/13-Advanced Python Modules/02-Datetime.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/13-Advanced Python Modules/03-Python Debugger (pdb).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/13-Advanced Python Modules/04-Timing your code - timeit.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/13-Advanced Python Modules/05-Regular Expressions - re.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/13-Advanced Python Modules/06-StringIO.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/14-Advanced Python Objects and Data Structures/.ipynb_checkpoints/01-Advanced Numbers-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/14-Advanced Python Objects and Data Structures/.ipynb_checkpoints/02-Advanced Strings-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/14-Advanced Python Objects and Data Structures/.ipynb_checkpoints/03-Advanced Sets-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/14-Advanced Python Objects and Data Structures/.ipynb_checkpoints/04-Advanced Dictionaries-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/14-Advanced Python Objects and Data Structures/.ipynb_checkpoints/05-Advanced Lists-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/14-Advanced Python Objects and Data Structures/.ipynb_checkpoints/06-Advanced Python Objects Test-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/14-Advanced Python Objects and Data Structures/.ipynb_checkpoints/07-Advanced Python Objects Test - Solutions-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/14-Advanced Python Objects and Data Structures/01-Advanced Numbers.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/14-Advanced Python Objects and Data Structures/02-Advanced Strings.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/14-Advanced Python Objects and Data Structures/03-Advanced Sets.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/14-Advanced Python Objects and Data Structures/04-Advanced Dictionaries.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/14-Advanced Python Objects and Data Structures/05-Advanced Lists.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/14-Advanced Python Objects and Data Structures/06-Advanced Python Objects Test.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/14-Advanced Python Objects and Data Structures/07-Advanced Python Objects Test - Solutions.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/14-Advanced Python Objects and Data Structures/08-BONUS - With Statement Context Managers.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/15-Advanced OOP/.ipynb_checkpoints/01-Advanced Object Oriented Programming-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/15-Advanced OOP/01-Advanced Object Oriented Programming.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/16-Bonus Material - Introduction to GUIs/.ipynb_checkpoints/01-Interact-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/16-Bonus Material - Introduction to GUIs/.ipynb_checkpoints/02-Widget Basics-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/16-Bonus Material - Introduction to GUIs/.ipynb_checkpoints/03-Widget List-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/16-Bonus Material - Introduction to GUIs/.ipynb_checkpoints/04-Widget Events-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/16-Bonus Material - Introduction to GUIs/.ipynb_checkpoints/05-Widget Styling-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/16-Bonus Material - Introduction to GUIs/.ipynb_checkpoints/06-Custom Widget-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/16-Bonus Material - Introduction to GUIs/.ipynb_checkpoints/07-Advanced Widget List-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/16-Bonus Material - Introduction to GUIs/.ipynb_checkpoints/08-Advanced Widget Styling with Layout-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/16-Bonus Material - Introduction to GUIs/01-Interact.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/16-Bonus Material - Introduction to GUIs/02-Widget Basics.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/16-Bonus Material - Introduction to GUIs/03-Widget List.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/16-Bonus Material - Introduction to GUIs/04-Widget Events.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/16-Bonus Material - Introduction to GUIs/05-Widget Styling.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/16-Bonus Material - Introduction to GUIs/06-Custom Widget.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/16-Bonus Material - Introduction to GUIs/07-Advanced Widget List.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/16-Bonus Material - Introduction to GUIs/08-Advanced Widget Styling with Layout.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/17-Parallel Processing/.ipynb_checkpoints/01-Multithreading and Multiprocessing-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/17-Parallel Processing/01-Multithreading and Multiprocessing.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/17-Parallel Processing/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/17-Parallel Processing/test2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/FAQ.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/Jupyter (iPython) Notebooks Guide.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/Complete-Python-3-Bootcamp/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/PycharmExercise/exercise1/.idea/exercise1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/PycharmExercise/exercise1/.idea/libraries/R_User_Library.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/PycharmExercise/exercise1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/PycharmExercise/exercise1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/PycharmExercise/exercise1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/PycharmExercise/exercise1/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/jike_python_basic/.idea/jike_python_basic.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/jike_python_basic/.idea/libraries/R_User_Library.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/jike_python_basic/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/jike_python_basic/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/jike_python_basic/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/jike_python_basic/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Python Basic/jike_python_basic/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/jike_python_basic/chinese_zodiac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/jike_python_basic/chinese_zodiac_v2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/jike_python_basic/closure_test1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/jike_python_basic/closure_test2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/jike_python_basic/closure_test3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/jike_python_basic/data/name.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/jike_python_basic/data/name_copy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/jike_python_basic/data/one_piece_charactor.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/jike_python_basic/data/one_piece_charactor_list.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/jike_python_basic/data/one_piece_file.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/jike_python_basic/decorator_test1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/jike_python_basic/decorator_test2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/jike_python_basic/exception_handling.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/jike_python_basic/file_op.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/jike_python_basic/file_op2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/jike_python_basic/first_example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/jike_python_basic/func_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/jike_python_basic/high_order_function_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/jike_python_basic/iter_and_generator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/jike_python_basic/lambda_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/jike_python_basic/list_comprehension.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/jike_python_basic/one_piece.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/jike_python_basic/one_piece_v2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/jike_python_basic/test_if.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/jike_python_basic/zodiac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/jike_python_basic/zodiac_v2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/jike_python_basic/zodiac_v3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Basic/jike_python_basic/zodiac_v4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Data Analyse/data_analyse_lesson/lect02/lect02_notebook/lect02_eg03.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Python Data Analyse/data_analyse_lesson/lect02/lect02_notebook/lect02_eg03.ipynb" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="100044738">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-134" />
+    <option name="y" value="113" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="python_basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_basic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_basic" type="462c0819:PsiDirectoryNode" />
+              <item name="jike_python_basic" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/jike_python_basic" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c72f30d2-547b-45ec-b915-5e877172bdc4" name="Default Changelist" comment="" />
+      <created>1586742695274</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586742695274</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="R Packages" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="R Graphics" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+</project>

@@ -16,9 +16,10 @@ for word in all_text.split():
 print(character_num)
 f2.close()
 
+
 def read_file(path):
     result = open(path, 'r').read()
     return result
 
-print(read_file('data/one_piece_charactor_list.txt').split('|'))
 
+print(read_file('data/one_piece_charactor_list.txt').split('|'))

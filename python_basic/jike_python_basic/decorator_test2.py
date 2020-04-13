@@ -7,6 +7,13 @@ def tips(argv):
         return wrapper
     return tip
 
+outer1 = tips('add')
+tip1 = outer1(lambda a, b: print(a + b))
+tip1(1, 2)
+
+outer2 = tips('sub')
+tip2 = outer1(lambda a, b: print(a - b))
+tip2(1, 2)
 
 @tips('add')
 def add(a, b):
