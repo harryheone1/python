@@ -1,3 +1,6 @@
+# Define a class that could be executed by with 关键字
+
+
 class TestWith():
     def __enter__(self):
         print('Task is ready to run')
