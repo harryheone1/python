@@ -1,0 +1,2 @@
+class ListNode:
+    pass
